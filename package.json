@@ -5,7 +5,8 @@
   "author": "Tejas Manohar <me@tejasmanohar.com>",
   "main": "app",
   "dependencies": {
+    "body-parser": "^1.8.1",
     "express": "^4.9.0",
-    "request": "^2.42.0"
+    "superagent": "^0.18.2"
   }
 }
